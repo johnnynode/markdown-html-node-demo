@@ -7,4 +7,4 @@
 
 ### 运行
 - $ node index
-- 然后修改WRITE.md文件，然后时时改动WRITE.html文件
+- 通过修改WRITE.md文件，可以看到时时同步改动的WRITE.html文件
